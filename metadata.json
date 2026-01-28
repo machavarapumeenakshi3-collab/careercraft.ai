@@ -1,0 +1,8 @@
+{
+  "name": "CareerCraft AI",
+  "description": "An AI-powered career platform that analyzes resumes, identifies skill gaps, generates learning roadmaps, and matches candidates with internships and jobs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
